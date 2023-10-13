@@ -4,8 +4,8 @@
 Set
 
 Welcome Git users
-HashSet
-How to create HashSet object in Java
+HashMap
+How to create HashMap object in Java
 How to store Object into HashSet
 Iterating through HashSet
 How to check HashSet is empty
